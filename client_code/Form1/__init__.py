@@ -7,3 +7,8 @@ class Form1(Form1Template):
     self.init_components(**properties)
 
     # Any code you write here will run before the form opens.
+
+def button_1_click(self, **event_args):
+  self.label_1.text = "😲 Wow!"
+  self.label_1.foreground = "red"
+  self.label_1.bold = True
