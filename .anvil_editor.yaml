@@ -3,7 +3,27 @@ unique_ids:
     standard-page.html: HE22NDVWBOPBMREEDLR5OHEMMLEDRGWM
     theme.css: 5ZPANB4OV62Z6XNAENMXGP4ESVDSRS5V
   forms:
-    Form1: AMWBLOUK2VDR73WYHIFKYYFDKOSUBUYL
-  modules: {}
+    Adhikar.about_page_form: '176162718809887871867786.56564'
+    Adhikar.card_component_form: '1761627890190541530296508.7253'
+    Adhikar.demographic_form: '17616265990343269258903.0679507'
+    Adhikar.homepage_form: '1761626414656147495445276.60907'
+    Adhikar.navbar_form: '1761628118075729627360481.472'
+    Adhikar.question_input_form: '1761626713758445503733785.61505'
+    Adhikar.result_page_form: '1761626956548902822582547.8629'
+  modules:
+    Adhikar: '1761625547326804063979963.3754'
+    Adhikar.adhikar_theme: '1761629978357561873686657.2166'
+    Adhikar.answer: '176162835434466019262233.26371'
+    Adhikar.database_utils: '176162915375665683166265.85824'
+    Adhikar.device_detector: '1761629800341975587618953.9237'
+    Adhikar.fake_ai: '176162933112366837924712.11803'
+    Adhikar.localisation: '1761629524409304950779817.21063'
+    Adhikar.logging_manager: '1761629829140172942964087.3198'
+    Adhikar.main: '1761625593088811594395551.8114'
+    Adhikar.questions: '1761628315288252093632778.2306'
+    Adhikar.recommender: '176162944197293483851814.47282'
+    Adhikar.responsive_utils: '1761626170196831430168683.8201'
+    Adhikar.router: '1761626030566258200850088.5653'
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '176162461327528045726407.053608'
